@@ -116,5 +116,13 @@
         "photo": "magdalena.webp",
         "e-mail": "",
         "bio": "Magdalena Wysocka is currently on an internship at the Department of Computer Science at the University of Manchester. She obtained MSc and BSc in Biomedical Engineering with specialisation in Computer Science and Chemistry in Medicine at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab she took part in a two years project on the whole genome analysis and antimicrobial resistance at the Department of Genetics at the University of Leicester. Currently she works on feature selection methods in medical applications. She is finishing her PhD dissertation on virulence profile and genome analysis of Klebsiella isolates recovered from renal transplant patients. Vegetarian with a BA in Clinical Nutrition and travel lover with forty countries on the list."
+    },
+    {
+        "name": "Xin Quan",
+        "position": "PhD Researcher",
+        "photo": "xin.png",
+        "e-mail": "",
+        "bio": "Xin Quan is a PhD student at the Department of Computer Science at the University of Manchester. He obtained BSc in Computer Science with Management with specialisation in Artificical Intelligence and MSc in Artificial Intelligence at King's College London. His main research interests are in ethical reasoning, multi-hop reasoning and natural language inference for ethical statements."
     }
+        
 ]
