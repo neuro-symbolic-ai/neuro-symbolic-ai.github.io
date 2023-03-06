@@ -138,5 +138,12 @@
         "photo": "magdalena.webp",
         "e-mail": "",
         "bio": "Magdalena Wysocka is currently on an internship at the Department of Computer Science at the University of Manchester. She obtained MSc and BSc in Biomedical Engineering with specialisation in Computer Science and Chemistry in Medicine at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab she took part in a two years project on the whole genome analysis and antimicrobial resistance at the Department of Genetics at the University of Leicester. Currently she works on feature selection methods in medical applications. She is finishing her PhD dissertation on virulence profile and genome analysis of Klebsiella isolates recovered from renal transplant patients. Vegetarian with a BA in Clinical Nutrition and travel lover with forty countries on the list."
+    },
+    {
+        "name": "Maxime Delmas",
+        "position": "Post-doctoral Researcher",
+        "photo": "maximedelmas.jpg",
+        "e-mail": "mdelmas@idiap.ch",
+        "bio": "Maxime Delmas is currently a Postdoctoral Researcher at the Idiap Research Institute. His background is mainly in biology and bioinformatics, with a thesis on the application of Knowledge Graph to study the links between metabolism and health. Maxime's main research activity focuses on the extraction and representation of knowledge from the scientific literature to assist researchers and clinicians in the interpretation of biological data and support new discoveries. In this context, its interest focus also on the combination of Knowledge Representation and Natural Language Processing."
     }
 ]
