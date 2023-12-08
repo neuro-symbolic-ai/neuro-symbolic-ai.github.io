@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Zili Zhou",
+        "position": "Research Associate",
+        "photo": "zili.webp",
+        "e-mail": "",
+        "bio": "Zili Zhou is a postdoctoral researcher at the Department of Computer Science of the University of Manchester and at the Digital Experimental Cancer Medicine Team (dECMT). Currently, he works on both Knowledge Inference based NLP system and clinical decision support system. Prior to the University of Manchester, he obtained his Ph.D. degree in Computer Science from the University of Technology Sydney, he studied and designed several methods and solutions in the area of Knowledge Graph Embedding and Application. His research interest includes Knowledge Graph Inference, Knowledge Graph Application, Network Embedding Learning, and Data Analytics."
+    },
+    {
+        "name": "Deborah Ferreira",
+        "position": "PhD Researcher",
+        "photo": "deborah.webp",
+        "e-mail": "",
+        "bio": "Deborah Ferreira is currently a PhD student (started in 2018) in Computer Science at The University of Manchester and has previously obtained her MSc and BSc in Computer Science from the Universidade de Brasilia in Brazil. Is studying the overlap between natural language and mathematical language and how the semantics of these two types of discourse can be represented together in different applications. She is particularly interested in the area of automated scientific discovery and is passionate about ethics and inclusiveness in AI. Coffee-drinking vegan, mother of cats and newbie yoga practitioner."
+    },
+    {
+        "name": "Mokanarangan Thayaparan",
+        "position": "PhD Researcher",
+        "photo": "mohan.webp",
+        "e-mail": "",
+        "bio": "Mokanarangan Thayaparan is currently a Ph.D. student (started in 2018) in Computer Science at The University of Manchester and has obtained his Masters in Computer Science and Bachelors in Computer Science and Engineering from the University of Moratuwa, Sri Lanka. He is currently working with explainable and domain-specific modeling for natural language reasoning. You can find him railing against Reviewer #2 in academic groups and also a part-time poet."
+    },
+    {
+        "name": "Giangiacomo Mercatali",
+        "position": "PhD Researcher",
+        "photo": "gian.webp",
+        "e-mail": "",
+        "bio": "Gian Mercatali received the BSc and MSc degrees in Computer Science respectively from the University of Bologna, Italy and the University of Manchester, UK. He is a doctoral candidate in the Department of Computer Science at the University of Manchester since 2019, working in the AI Systems group. His current main research interest include: Interpretable & Probabilistic Machine Learning for NLP. Specifically, he is focusing on (1) deep generative models for controllable natural-language explanation generation and (2) improving NLP interpretability with disentangled representation learning."
+    }
+]
